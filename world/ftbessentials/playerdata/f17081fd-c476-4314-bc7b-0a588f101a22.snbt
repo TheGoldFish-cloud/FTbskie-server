@@ -1,0 +1,23 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 5, y: 63, z: 37, time: 1744098047854L, xRot: -8.851878f, yRot: -114.3797f }
+	recording: 0
+	teleport_history: [
+		{ dim: "ad_astra:mercury", x: 109, y: 161, z: -173, time: 1742486595428L, xRot: 1.0500002f, yRot: 3.6000001f }
+		{ dim: "ad_astra:mercury", x: 109, y: 174, z: -173, time: 1742486595979L, xRot: 1.0500002f, yRot: 3.6000001f }
+		{ dim: "ad_astra:mercury", x: 109, y: 184, z: -173, time: 1742486596747L, xRot: 1.0500002f, yRot: 3.6000001f }
+		{ dim: "ad_astra:mercury", x: -186, y: 112, z: -230, time: 1742486636208L, xRot: 2.5495706f, yRot: 87.149216f }
+		{ dim: "ad_astra:venus", x: -203, y: -23, z: -290, time: 1742487487648L, xRot: 33.450188f, yRot: 123.60657f }
+		{ dim: "ad_astra:venus", x: 54, y: 102, z: -15, time: 1742487796200L, xRot: 13.351175f, yRot: 136.48438f }
+		{ dim: "ad_astra:glacio", x: 247, y: 146, z: 54, time: 1742489042322L, xRot: 23.098907f, yRot: 70.95153f }
+		{ dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 67, y: 64, z: -53, time: 1743437876671L, xRot: 18.150156f, yRot: 28.305542f }
+		{ dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 29, y: 77, z: -35, time: 1743441241616L, xRot: 25.949526f, yRot: -132.68788f }
+		{ dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 165, y: 69, z: -27, time: 1743589554727L, xRot: 48.15019f, yRot: 175.93018f }
+	]
+	homes: {
+		home: { dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 85, y: 63, z: -29, time: 1738768222162L, xRot: 35.24999f, yRot: 146.68988f }
+	}
+}

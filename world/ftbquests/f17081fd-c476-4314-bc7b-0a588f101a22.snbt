@@ -1,0 +1,21 @@
+{
+	version: 1
+	uuid: "f17081fdc4764314bc7b0a588f101a22"
+	name: "gdbowden"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6D345792186A6BBD: 1
+	}
+	started: {
+		6F9D278DA2F03FFC: 1737363845075L
+		6D345792186A6BBD: 1737363845075L
+		481283CFB175515F: 1737363845075L
+		0000000000000001: 1737363845075L
+	}
+	completed: {
+		6D345792186A6BBD: 1737363845078L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

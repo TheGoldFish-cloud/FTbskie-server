@@ -1,0 +1,23 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 0, y: 64, z: 23, time: 1744098047937L, xRot: 28.94987f, yRot: 50.922638f }
+	recording: 0
+	teleport_history: [
+		{ dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 7, y: 63, z: -8, time: 1741448688476L, xRot: 12.299896f, yRot: 2.2522888f }
+		{ dim: "ad_astra:moon", x: -293, y: -2, z: -489, time: 1741531524383L, xRot: 23.400415f, yRot: 162.71349f }
+		{ dim: "minecraft:the_end", x: 36, y: 60, z: -29, time: 1741532195978L, xRot: 22.34991f, yRot: -85.20007f }
+		{ dim: "ad_astra:mars", x: 37, y: 6, z: 13, time: 1741532453879L, xRot: 2.6999338f, yRot: 110.32655f }
+		{ dim: "ad_astra:mars", x: 155, y: 125, z: -1876, time: 1741533290532L, xRot: 22.050226f, yRot: -87.31543f }
+		{ dim: "ad_astra:venus", x: 169, y: 136, z: 1, time: 1742487805012L, xRot: 52.800076f, yRot: -97.347984f }
+		{ dim: "ad_astra:glacio", x: -381, y: 111, z: 2533, time: 1742489046117L, xRot: 45.300213f, yRot: 76.05027f }
+		{ dim: "minecraft:the_end", x: -1008, y: 60, z: -293, time: 1743759407165L, xRot: 27.45031f, yRot: 26.231598f }
+		{ dim: "minecraft:the_end", x: -1004, y: 62, z: -290, time: 1743759427214L, xRot: 22.350323f, yRot: -35.11842f }
+		{ dim: "minecraft:the_nether", x: 8257, y: 183, z: -9382, time: 1744097157100L, xRot: 24.150202f, yRot: 106.19165f }
+	]
+	homes: {
+		home: { dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 0, y: 64, z: 1, time: 1737364210119L, xRot: 46.199577f, yRot: 132.44966f }
+	}
+}

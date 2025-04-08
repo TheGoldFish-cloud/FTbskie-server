@@ -1,0 +1,37 @@
+{
+	id: "56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c"
+	type: "party"
+	owner: "f17081fd-c476-4314-bc7b-0a588f101a22"
+	ranks: {
+		c8d77ac4-e0e5-4498-a1de-38100ae8af0f: "officer"
+		f17081fd-c476-4314-bc7b-0a588f101a22: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "gdbowden's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737363955745L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"gdbowden\"}]}" }
+		{ from: "f17081fd-c476-4314-bc7b-0a588f101a22", date: 1737363955761L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ARMuok\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737363959371L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ARMuok\"}]}" }
+		{ from: "f17081fd-c476-4314-bc7b-0a588f101a22", date: 1737363968106L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"ARMuok\"}]}" }
+		{ from: "f17081fd-c476-4314-bc7b-0a588f101a22", date: 1737363970563L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.demoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"ARMuok\"}]}" }
+		{ from: "f17081fd-c476-4314-bc7b-0a588f101a22", date: 1737363972002L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"ARMuok\"}]}" }
+		{ from: "f17081fd-c476-4314-bc7b-0a588f101a22", date: 1737364099597L, text: "{\"text\":\"kuy\"}" }
+	]
+	extra: { }
+}

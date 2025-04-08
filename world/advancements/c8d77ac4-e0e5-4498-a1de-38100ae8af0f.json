@@ -1,0 +1,2886 @@
+{
+  "elementalcraft:pickup/air_shard": {
+    "criteria": {
+      "has_air_shard": "2025-01-27 22:26:55 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2025-01-27 22:22:55 +0700"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2025-02-08 16:06:52 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/overworld_nest/treat_on_nest": {
+    "criteria": {
+      "use_treat": "2025-02-03 22:19:55 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/focus": {
+    "criteria": {
+      "has_focus": "2025-04-02 14:10:09 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/inscriber": {
+    "criteria": {
+      "has_inscriber": "2025-04-02 15:42:55 +0700"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-02-02 17:09:59 +0700",
+      "1": "2025-02-02 17:01:39 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-27 22:27:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-01-20 16:34:59 +0700"
+    },
+    "done": true
+  },
+  "petrock:petrock/root": {
+    "criteria": {
+      "requirement": "2025-01-20 20:03:20 +0700"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_mace": {
+    "criteria": {
+      "find": "2025-01-29 20:35:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-04 21:27:54 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-01-28 19:22:58 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-02-02 18:17:42 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-26 13:21:56 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/contained_crystal": {
+    "criteria": {
+      "has_contained_crystal": "2025-04-02 13:36:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-02 17:00:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-01-26 13:05:05 +0700"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-02-01 14:49:49 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-27 22:50:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-26 21:58:27 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/springaline_shard": {
+    "criteria": {
+      "has_springaline_shard": "2025-04-02 14:20:21 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_enderman": "2025-01-27 22:34:20 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:interstellar": {
+    "criteria": {
+      "interstellar": "2025-03-20 23:36:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-27 22:25:44 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/crystallizer": {
+    "criteria": {
+      "has_crystallizer": "2025-04-02 15:26:47 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pedestal_fire": {
+    "criteria": {
+      "has_pedestal_fire": "2025-04-02 15:33:30 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/crude_earth_gem": {
+    "criteria": {
+      "has_crude_earth_gem": "2025-04-02 15:36:47 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/water_shard": {
+    "criteria": {
+      "has_water_shard": "2025-03-09 20:05:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2025-01-26 13:06:56 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "statues:zombie_statue": {
+    "criteria": {
+      "zombie_statue": "2025-03-22 19:58:55 +0700"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-03-22 22:22:50 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-02-02 17:43:40 +0700"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-02-02 18:20:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:05 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/elementpipe": {
+    "criteria": {
+      "has_elementpipe": "2025-04-02 14:07:56 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-02-02 17:30:11 +0700"
+    },
+    "done": true
+  },
+  "mekanism:radiation_poisoning": {
+    "criteria": {
+      "poisoned": "2025-03-22 23:08:14 +0700"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-26 12:39:25 +0700"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-02-02 18:25:38 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/overworld_nest": {
+    "criteria": {
+      "get_item": "2025-01-20 20:24:46 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-01-28 21:19:04 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/sorter": {
+    "criteria": {
+      "has_sorter": "2025-04-08 13:35:34 +0700"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-01-26 12:45:42 +0700"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2025-02-08 16:30:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-29 20:22:46 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/purecrystal": {
+    "criteria": {
+      "has_purecrystal": "2025-04-02 16:19:41 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:starby_charm": {
+    "criteria": {
+      "has_starbuncle_charm": "2025-03-22 20:53:06 +0700"
+    },
+    "done": true
+  },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2025-02-02 20:44:13 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-01-27 22:48:28 +0700"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2025-03-22 23:32:51 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/sweetshrine": {
+    "criteria": {
+      "has_sweetshrine": "2025-04-02 14:07:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-26 12:54:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-06 15:00:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-20 20:07:07 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2025-01-29 20:25:26 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:mercury": {
+    "criteria": {
+      "mercury": "2025-03-20 22:57:33 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2025-01-27 22:27:22 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/scroll_paper": {
+    "criteria": {
+      "has_scroll_paper": "2025-04-02 14:10:07 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "shepherds_pie": "2025-01-26 13:32:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:netherite_space_suit": {
+    "criteria": {
+      "netherite_space_suit": "2025-03-20 22:22:11 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/hardened_handle": {
+    "criteria": {
+      "has_hardened_handle": "2025-04-02 15:45:16 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_expertise": {
+    "criteria": {
+      "fibre_expertise": "2025-01-29 20:22:44 +0700",
+      "fabric_expertise": "2025-01-29 20:22:43 +0700",
+      "skin_expertise": "2025-01-29 20:23:11 +0700",
+      "wood_expertise": "2025-01-29 20:22:44 +0700",
+      "metal_expertise": "2025-01-29 20:23:11 +0700"
+    },
+    "done": false
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-02-08 16:30:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-20 16:23:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/fire_shard": {
+    "criteria": {
+      "has_fire_shard": "2025-01-26 14:03:52 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:tier_3_rocket": {
+    "criteria": {
+      "tier_3_rocket": "2025-03-20 22:19:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-01-27 22:48:39 +0700",
+      "opened_chest": "2025-01-27 22:25:44 +0700"
+    },
+    "done": false
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-03-22 21:09:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "tetra:scrolls/root": {
+    "criteria": {
+      "find": "2025-01-27 22:22:55 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pedestal_air": {
+    "criteria": {
+      "has_pedestal_air": "2025-04-02 15:39:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-01-26 14:04:27 +0700",
+      "minecraft:skeleton": "2025-01-29 20:33:57 +0700",
+      "minecraft:magma_cube": "2025-03-09 20:54:17 +0700",
+      "minecraft:spider": "2025-02-03 18:29:36 +0700",
+      "minecraft:creeper": "2025-01-29 20:34:32 +0700",
+      "minecraft:wither": "2025-02-03 22:44:51 +0700",
+      "minecraft:zombified_piglin": "2025-01-26 14:03:53 +0700",
+      "minecraft:wither_skeleton": "2025-01-26 13:53:41 +0700",
+      "minecraft:shulker": "2025-02-08 16:37:30 +0700",
+      "minecraft:piglin": "2025-01-27 22:46:51 +0700",
+      "minecraft:enderman": "2025-01-26 14:03:58 +0700",
+      "minecraft:endermite": "2025-02-05 21:39:26 +0700",
+      "minecraft:vex": "2025-01-27 22:40:21 +0700",
+      "minecraft:zombie": "2025-01-29 20:32:45 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-05 21:25:53 +0700"
+    },
+    "done": true
+  },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2025-02-02 21:24:38 +0700"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:find_castle": {
+    "criteria": {
+      "in_city": "2025-02-04 21:21:12 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2025-01-29 20:45:39 +0700"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-01-20 19:55:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-01-23 19:32:49 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive/expansion_box/hive_upgrades": {
+    "criteria": {
+      "get_item": "2025-03-08 19:59:26 +0700"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-01-23 19:35:44 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-01-26 14:12:33 +0700"
+    },
+    "done": true
+  },
+  "trashcans:ultimate_trash_can": {
+    "criteria": {
+      "has_ultimate_trash_can": "2025-03-31 22:34:56 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pristine_air_gem": {
+    "criteria": {
+      "has_pristine_air_gem": "2025-04-02 14:01:41 +0700"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-01-26 20:59:42 +0700"
+    },
+    "done": true
+  },
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_crystallizer": "2025-02-03 19:40:38 +0700"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/chest_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2025-01-29 14:13:50 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_cell": {
+    "criteria": {
+      "get_cell": "2025-01-27 22:27:22 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/watercrystal": {
+    "criteria": {
+      "has_watercrystal": "2025-04-02 13:53:21 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/extractor": {
+    "criteria": {
+      "has_extractor": "2025-04-02 13:37:42 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pureinfuser": {
+    "criteria": {
+      "has_pureinfuser": "2025-04-02 15:28:02 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2025-01-22 20:47:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-29 20:38:13 +0700"
+    },
+    "done": true
+  },
+  "modonomicon:modonomicon/root": {
+    "criteria": {
+      "modonomicon_present": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_enderman": "2025-01-27 22:34:13 +0700",
+      "baby_skeleton": "2025-01-29 20:34:42 +0700",
+      "baby_creeper": "2025-02-01 22:59:53 +0700"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-03-22 20:35:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-08 16:30:07 +0700"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-20 16:56:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-01-26 21:58:26 +0700"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-01-20 19:30:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/fireite_ingot": {
+    "criteria": {
+      "has_fireite_ingot": "2025-02-08 16:38:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-02 13:14:55 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-01-27 22:39:24 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/spell_book": {
+    "criteria": {
+      "has_spell_book": "2025-04-04 16:11:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "statues:endermite_statue": {
+    "criteria": {
+      "endermite_statue": "2025-03-22 19:58:56 +0700"
+    },
+    "done": true
+  },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2025-01-26 22:16:51 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-03-22 21:17:32 +0700"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-01-26 21:03:20 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-02-02 18:32:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-01 21:13:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2025-02-08 17:23:37 +0700"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-01-26 12:45:42 +0700"
+    },
+    "done": true
+  },
+  "petrock:petrock/warranty_void": {
+    "criteria": {
+      "petrock:petrock": "2025-01-20 16:23:44 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage": {
+    "criteria": {
+      "get_item": "2025-02-04 20:45:11 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "hexcasting:root": {
+    "criteria": {
+      "has_charged_amethyst": "2025-01-27 20:40:26 +0700"
+    },
+    "done": true
+  },
+  "compactmachines:got_shrinking_device": {
+    "criteria": {
+      "obtained_psd": "2025-01-20 16:05:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-03-22 21:16:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-02-08 16:39:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-20 20:03:20 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2025-01-31 17:06:00 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_halberd": {
+    "criteria": {
+      "find": "2025-01-29 20:36:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/purerock": {
+    "criteria": {
+      "has_purerock": "2025-04-04 16:55:38 +0700"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "rune": "2025-01-27 22:22:10 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/spell_desk": {
+    "criteria": {
+      "has_spell_desk": "2025-04-02 14:09:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 19:34:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pedestal_water": {
+    "criteria": {
+      "has_pedestal_water": "2025-04-02 15:42:21 +0700"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-22 21:50:08 +0700"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-01-20 16:34:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-29 20:38:13 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/firefurnace": {
+    "criteria": {
+      "has_firefurnace": "2025-04-02 13:55:52 +0700"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-02-08 16:39:17 +0700"
+    },
+    "done": true
+  },
+  "statues:baby_zombie_statue": {
+    "criteria": {
+      "baby_zombie_statue": "2025-02-01 23:58:30 +0700"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-02-02 17:52:15 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2025-03-22 21:00:04 +0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:wither_skeleton": "2025-01-26 13:53:41 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "petrock:petrock/petrockbox": {
+    "criteria": {
+      "requirement": "2025-01-20 16:16:29 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2025-02-03 22:01:59 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/infuser": {
+    "criteria": {
+      "has_infuser": "2025-04-02 13:49:50 +0700"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-02-03 00:03:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-01-29 20:21:20 +0700",
+      "minecraft:old_growth_pine_taiga": "2025-01-29 20:20:23 +0700",
+      "minecraft:taiga": "2025-01-29 20:20:31 +0700",
+      "minecraft:deep_ocean": "2025-01-29 20:38:51 +0700",
+      "minecraft:sunflower_plains": "2025-01-29 20:21:39 +0700",
+      "minecraft:birch_forest": "2025-01-29 20:22:04 +0700",
+      "minecraft:wooded_badlands": "2025-02-04 21:16:56 +0700",
+      "minecraft:badlands": "2025-02-04 21:17:22 +0700",
+      "minecraft:savanna_plateau": "2025-02-04 21:18:10 +0700",
+      "minecraft:beach": "2025-01-29 20:22:07 +0700",
+      "minecraft:dark_forest": "2025-01-29 20:22:05 +0700",
+      "minecraft:sparse_jungle": "2025-02-04 21:16:27 +0700",
+      "minecraft:lukewarm_ocean": "2025-01-29 20:38:44 +0700",
+      "minecraft:river": "2025-01-29 20:20:32 +0700",
+      "minecraft:stony_shore": "2025-01-29 20:37:38 +0700",
+      "minecraft:snowy_plains": "2025-03-08 22:56:24 +0700",
+      "minecraft:dripstone_caves": "2025-01-26 14:42:58 +0700",
+      "minecraft:grove": "2025-02-04 21:18:46 +0700",
+      "minecraft:swamp": "2025-02-04 21:14:42 +0700",
+      "minecraft:jagged_peaks": "2025-01-29 20:21:21 +0700",
+      "minecraft:cold_ocean": "2025-01-29 20:20:22 +0700",
+      "minecraft:forest": "2025-01-29 20:20:36 +0700",
+      "minecraft:lush_caves": "2025-01-29 20:20:27 +0700",
+      "minecraft:deep_cold_ocean": "2025-02-04 21:19:15 +0700",
+      "minecraft:frozen_ocean": "2025-01-20 16:04:15 +0700",
+      "minecraft:desert": "2025-02-04 21:16:36 +0700",
+      "minecraft:jungle": "2025-01-29 20:46:46 +0700",
+      "minecraft:ocean": "2025-01-29 20:20:20 +0700",
+      "minecraft:old_growth_spruce_taiga": "2025-02-04 22:30:46 +0700",
+      "minecraft:warm_ocean": "2025-02-04 21:16:39 +0700",
+      "minecraft:deep_lukewarm_ocean": "2025-01-29 20:39:23 +0700",
+      "minecraft:flower_forest": "2025-01-29 20:21:22 +0700",
+      "minecraft:frozen_peaks": "2025-04-02 14:00:48 +0700",
+      "minecraft:old_growth_birch_forest": "2025-01-29 20:34:58 +0700",
+      "minecraft:deep_dark": "2025-02-04 21:18:29 +0700",
+      "minecraft:meadow": "2025-01-29 20:22:00 +0700",
+      "minecraft:savanna": "2025-01-29 20:21:40 +0700",
+      "minecraft:plains": "2025-01-20 16:07:56 +0700"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/element_holder_fire": {
+    "criteria": {
+      "has_element_holder_fire": "2025-04-02 13:59:32 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_fire_shard": {
+    "criteria": {
+      "has_powerful_fire_shard": "2025-01-26 14:05:42 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "unusualend:i_am_the_cure": {
+    "criteria": {
+      "i_am_the_cure": "2025-03-08 23:38:20 +0700"
+    },
+    "done": true
+  },
+  "statues:drowned_statue": {
+    "criteria": {
+      "drowned_statue": "2025-04-02 13:49:59 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/buddingshrine": {
+    "criteria": {
+      "has_buddingshrine": "2025-01-26 22:56:57 +0700"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-01-27 23:19:39 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-01-27 23:19:20 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/crude_fire_gem": {
+    "criteria": {
+      "has_crude_fire_gem": "2025-04-02 16:24:25 +0700"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-01-26 20:58:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2025-01-20 16:33:18 +0700"
+    },
+    "done": true
+  },
+  "petrock:petrock/stoneium": {
+    "criteria": {
+      "requirement": "2025-01-29 20:42:09 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/element_holder_water": {
+    "criteria": {
+      "has_element_holder_water": "2025-04-02 15:47:22 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pristine_fire_gem": {
+    "criteria": {
+      "has_pristine_fire_gem": "2025-04-02 14:01:40 +0700"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-02-01 13:59:21 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/small_container": {
+    "criteria": {
+      "has_small_container": "2025-04-02 13:38:27 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_earth_shard": {
+    "criteria": {
+      "has_powerful_earth_shard": "2025-02-04 21:43:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/air_silk": {
+    "criteria": {
+      "has_air_silk": "2025-04-02 15:44:26 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/professional_bee/feeding_slab": {
+    "criteria": {
+      "get_item": "2025-02-05 20:08:09 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2025-01-27 22:22:55 +0700"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-01-22 20:39:35 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/binder": {
+    "criteria": {
+      "has_binder": "2025-04-02 14:17:20 +0700"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2025-01-26 12:51:43 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/container": {
+    "criteria": {
+      "has_container": "2025-04-02 14:14:08 +0700"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-08 16:42:50 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/source_displacement_plate_fire": {
+    "criteria": {
+      "has_source_displacement_plate_fire": "2025-04-04 16:06:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-27 22:17:59 +0700",
+      "minecraft:nether_wastes": "2025-01-23 19:41:05 +0700",
+      "minecraft:soul_sand_valley": "2025-01-27 22:09:08 +0700",
+      "minecraft:basalt_deltas": "2025-01-27 22:18:19 +0700",
+      "minecraft:warped_forest": "2025-01-27 22:18:27 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/source": {
+    "criteria": {
+      "has_source": "2025-03-22 21:04:10 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/earth_shard": {
+    "criteria": {
+      "has_earth_shard": "2025-01-26 13:53:42 +0700"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2025-01-26 14:05:38 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-03-22 19:31:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-01-23 19:39:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/major_rune_slate": {
+    "criteria": {
+      "has_major_rune_slate": "2025-04-02 16:23:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-29 20:38:13 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/swift_alloy_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-02-08 16:38:55 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/earthcrystal": {
+    "criteria": {
+      "has_earthcrystal": "2025-04-02 13:53:24 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/drenched_iron_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2025-02-08 16:41:07 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:tier_2_rocket": {
+    "criteria": {
+      "tier_2_rocket": "2025-03-09 21:51:36 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-01-27 22:35:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "tetra:recipes/stonecutter": {
+    "criteria": {
+      "criteria": "2025-01-27 22:42:47 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-03-22 19:40:36 +0700"
+    },
+    "done": true
+  },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2025-02-03 00:32:15 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/element_holder_air": {
+    "criteria": {
+      "has_element_holder_air": "2025-04-02 15:49:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/inert_crystal": {
+    "criteria": {
+      "has_inert_crystal": "2025-02-01 15:39:09 +0700"
+    },
+    "done": true
+  },
+  "unusualend:ancient_wisdom": {
+    "criteria": {
+      "ancient_wisdom": "2025-02-08 16:44:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-23 19:41:05 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:venus": {
+    "criteria": {
+      "venus": "2025-03-20 23:03:48 +0700"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2025-01-22 20:47:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2025-02-03 00:34:01 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:basic_spell_turret": {
+    "criteria": {
+      "has_basic_spell_turret": "2025-03-22 19:49:22 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-01-23 20:47:13 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2025-03-22 23:32:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-01-22 21:37:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-01 14:39:50 +0700"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-02-02 17:26:13 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-01-23 20:16:37 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2025-01-27 22:07:36 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/rune": {
+    "criteria": {
+      "has_rune": "2025-04-02 16:29:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/shrine_upgrade_acceleration": {
+    "criteria": {
+      "has_shrine_upgrade_acceleration": "2025-04-04 16:16:53 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2025-04-08 14:26:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-20 19:40:37 +0700",
+      "honey_bottle": "2025-02-05 20:11:30 +0700",
+      "cooked_mutton": "2025-02-03 18:57:23 +0700",
+      "sweet_berries": "2025-03-09 20:19:26 +0700",
+      "cooked_beef": "2025-01-26 21:23:19 +0700",
+      "chorus_fruit": "2025-03-08 23:34:54 +0700",
+      "baked_potato": "2025-01-29 20:16:36 +0700",
+      "tropical_fish": "2025-01-23 21:06:38 +0700",
+      "beetroot_soup": "2025-01-26 20:58:41 +0700",
+      "apple": "2025-01-22 22:43:10 +0700",
+      "potato": "2025-02-02 16:09:27 +0700",
+      "cooked_cod": "2025-01-26 20:40:46 +0700",
+      "pumpkin_pie": "2025-04-02 15:24:09 +0700",
+      "mutton": "2025-01-23 21:02:53 +0700",
+      "bread": "2025-01-26 14:41:24 +0700",
+      "golden_apple": "2025-01-26 13:58:45 +0700",
+      "rotten_flesh": "2025-01-23 21:36:50 +0700",
+      "glow_berries": "2025-03-08 20:03:55 +0700",
+      "melon_slice": "2025-02-02 22:45:14 +0700",
+      "beetroot": "2025-01-23 18:38:33 +0700",
+      "golden_carrot": "2025-02-04 21:40:12 +0700",
+      "cooked_chicken": "2025-01-29 19:02:18 +0700",
+      "enchanted_golden_apple": "2025-02-08 16:27:01 +0700",
+      "cod": "2025-01-22 21:53:04 +0700",
+      "cooked_salmon": "2025-01-26 21:08:20 +0700",
+      "carrot": "2025-01-23 20:36:03 +0700"
+    },
+    "done": false
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-02-03 00:33:39 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-03-22 19:44:00 +0700"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-02-03 00:32:21 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/burnt_glass": {
+    "criteria": {
+      "has_burnt_glass": "2025-04-02 14:12:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-29 20:38:13 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-01-27 23:29:12 +0700"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-02 17:58:23 +0700"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-04-01 00:47:44 +0700"
+    },
+    "done": true
+  },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2025-01-29 20:25:43 +0700"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-02-01 14:50:52 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2025-03-20 23:29:58 +0700"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-01-23 19:39:56 +0700"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2025-02-02 20:44:19 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-03-22 20:37:01 +0700"
+    },
+    "done": true
+  },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2025-02-03 20:38:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-26 14:03:55 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/quartz_nest": {
+    "criteria": {
+      "get_item": "2025-02-03 22:32:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-02-02 00:35:45 +0700"
+    },
+    "done": false
+  },
+  "statues:sheep_all_statue": {
+    "criteria": {
+      "sheep_statue_red": "2025-02-02 00:34:22 +0700"
+    },
+    "done": false
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_liquid_trash_can": "2025-02-03 20:11:02 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-01-29 20:17:42 +0700"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-02-01 14:16:50 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-20 16:16:28 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-01-27 23:27:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-01-26 12:45:42 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/whiterock": {
+    "criteria": {
+      "has_whiterock": "2025-04-02 13:54:46 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:whirlisprig_charm": {
+    "criteria": {
+      "has_whirlisprig_charm": "2025-03-22 20:54:15 +0700"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-01-20 19:34:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_air_shard": {
+    "criteria": {
+      "has_powerful_air_shard": "2025-01-27 22:37:16 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pedestal_earth": {
+    "criteria": {
+      "has_pedestal_earth": "2025-04-02 15:41:33 +0700"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-02-03 20:03:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-20 19:40:37 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/chisel": {
+    "criteria": {
+      "has_chisel": "2025-04-02 15:45:44 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:jet_suit": {
+    "criteria": {
+      "jet_suit": "2025-03-20 23:27:38 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-01-27 22:27:05 +0700"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-01-27 22:39:03 +0700"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-01-22 21:48:15 +0700"
+    },
+    "done": true
+  },
+  "mekanism:teleporter": {
+    "criteria": {
+      "teleport": "2025-03-08 20:44:05 +0700"
+    },
+    "done": false
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "tier_1_rocket": "2025-03-08 22:05:32 +0700"
+    },
+    "done": true
+  },
+  "compactmachines:claimed_machine_tiny": {
+    "criteria": {
+      "claimed_machine": "2025-02-04 20:26:43 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/springaline_cluster": {
+    "criteria": {
+      "has_springaline_cluster": "2025-04-02 14:17:31 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/extractor_improved": {
+    "criteria": {
+      "has_extractor_improved": "2025-04-02 16:34:32 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/receptacle": {
+    "criteria": {
+      "has_receptacle": "2025-01-27 22:27:23 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-23 19:41:05 +0700"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2025-02-01 14:18:45 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-02-08 16:41:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-26 21:58:26 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive/expansion_box": {
+    "criteria": {
+      "get_box": "2025-02-03 22:04:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/catch_any_bee": {
+    "criteria": {
+      "catch": "2025-02-04 20:52:39 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2025-01-28 21:08:55 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-01-23 19:39:33 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-01-29 20:23:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-20 20:07:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-29 20:24:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-29 20:38:13 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-23 19:35:26 +0700"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-02-02 17:03:18 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-29 20:38:13 +0700"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-27 22:48:39 +0700"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-04-01 00:26:53 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_soup": "2025-01-26 14:54:00 +0700",
+      "shepherds_pie": "2025-01-26 13:27:12 +0700",
+      "ratatouille": "2025-04-02 17:09:35 +0700",
+      "mixed_salad": "2025-01-23 19:07:50 +0700",
+      "roasted_mutton_chops": "2025-01-26 22:39:56 +0700",
+      "grilled_salmon": "2025-02-01 20:37:07 +0700",
+      "pasta_with_meatballs": "2025-02-02 16:58:57 +0700",
+      "mushroom_rice": "2025-01-26 12:39:24 +0700",
+      "fish_stew": "2025-01-23 19:35:26 +0700",
+      "roast_chicken": "2025-01-27 23:06:46 +0700",
+      "pasta_with_mutton_chop": "2025-01-31 17:27:39 +0700"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-01-22 21:23:11 +0700",
+      "onion": "2025-01-23 20:15:45 +0700",
+      "sweet_berries": "2025-01-26 12:44:54 +0700",
+      "tomato": "2025-01-22 21:26:32 +0700",
+      "rice": "2025-01-23 20:16:37 +0700",
+      "beetroot": "2025-01-22 21:23:14 +0700",
+      "sugar_cane": "2025-01-22 21:25:27 +0700",
+      "potato": "2025-01-26 13:29:19 +0700",
+      "nether_wart": "2025-03-09 21:01:57 +0700",
+      "wheat": "2025-01-20 19:54:57 +0700",
+      "melon": "2025-02-01 13:48:59 +0700",
+      "carrot": "2025-01-23 20:15:48 +0700"
+    },
+    "done": false
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-01-22 20:41:22 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_planar": {
+    "criteria": {
+      "find_planar": "2025-01-27 22:28:01 +0700"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-23 20:47:13 +0700"
+    },
+    "done": true
+  },
+  "statues:sheep_statue": {
+    "criteria": {
+      "sheep_statue_red": "2025-02-02 00:34:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-04 22:16:29 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2025-01-28 20:10:41 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/aircrystal": {
+    "criteria": {
+      "has_aircrystal": "2025-04-02 13:53:25 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "moon": "2025-03-08 22:26:07 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_slab_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:conquer_castle": {
+    "criteria": {
+      "conquer_castle": "2025-02-04 22:09:03 +0700"
+    },
+    "done": true
+  },
+  "botania:main/elf_lexicon_pickup": {
+    "criteria": {
+      "lexicon": "2025-02-08 16:06:52 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2025-03-09 20:05:27 +0700"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2025-01-27 22:22:10 +0700"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-01-26 12:45:42 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-02-04 22:16:46 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-04-04 16:30:19 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2025-01-26 13:06:56 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-01-20 16:42:44 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-01-22 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2025-01-22 20:47:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "unusualend:you_but_stronger": {
+    "criteria": {
+      "you_but_stronger": "2025-02-08 16:38:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-01-28 20:09:20 +0700",
+      "silicon": "2025-01-28 19:52:49 +0700",
+      "engineering": "2025-01-28 19:29:08 +0700",
+      "logic": "2025-01-28 19:58:03 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-01-28 19:54:39 +0700"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-04-01 00:47:25 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-23 20:37:24 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pristine_water_gem": {
+    "criteria": {
+      "has_pristine_water_gem": "2025-04-02 14:01:40 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-01-27 22:25:45 +0700"
+    },
+    "done": true
+  },
+  "energeticsheep:root": {
+    "criteria": {
+      "criteria_0": "2025-01-23 19:14:11 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/elementpipe_impaired": {
+    "criteria": {
+      "has_elementpipe_impaired": "2025-04-02 13:38:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 21:21:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-20 16:11:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 18:14:22 +0700"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2025-02-03 20:02:38 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-23 19:18:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-08 16:37:30 +0700"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-01-26 20:46:33 +0700"
+    },
+    "done": true
+  },
+  "statues:cow_statue": {
+    "criteria": {
+      "cow_statue": "2025-02-01 15:35:15 +0700"
+    },
+    "done": true
+  },
+  "statues:root": {
+    "criteria": {
+      "core": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:32:48 +0700"
+    },
+    "done": true
+  },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-03-22 20:48:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-08 16:34:57 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-01-26 12:58:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-26 14:03:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-04 22:03:52 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/source_stabilizer": {
+    "criteria": {
+      "has_source_stabilizer": "2025-04-02 14:45:36 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-05 21:25:53 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/pristine_earth_gem": {
+    "criteria": {
+      "has_pristine_earth_gem": "2025-04-02 15:39:26 +0700"
+    },
+    "done": true
+  },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2025-02-05 21:37:40 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/fine_fire_gem": {
+    "criteria": {
+      "has_fine_fire_gem": "2025-04-02 16:24:37 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-20 20:32:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-04 22:04:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-27 22:50:23 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/instrument_retriever": {
+    "criteria": {
+      "has_instrument_retriever": "2025-04-08 13:33:16 +0700"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_efficiency": {
+    "criteria": {
+      "cut_efficiency": "2025-01-29 20:25:42 +0700"
+    },
+    "done": false
+  },
+  "elementalcraft:pickup/source_analysis_glass": {
+    "criteria": {
+      "has_source_analysis_glass": "2025-04-02 13:36:43 +0700"
+    },
+    "done": true
+  },
+  "mekanismgenerators:burn_the_gas": {
+    "criteria": {
+      "gas_burning_generator": "2025-02-02 21:27:32 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-02-03 00:27:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-08 16:30:07 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/element_holder_earth": {
+    "criteria": {
+      "has_element_holder_earth": "2025-04-02 15:47:34 +0700"
+    },
+    "done": true
+  },
+  "unusualend:local_food": {
+    "criteria": {
+      "local_food": "2025-03-08 23:34:54 +0700"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2025-01-22 20:47:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/chest_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-23 20:56:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-02 00:35:45 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_skillet": {
+    "criteria": {
+      "skillet": "2025-01-31 17:29:13 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-01-26 12:47:05 +0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-02-02 17:31:40 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-26 12:39:24 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/shrinebase": {
+    "criteria": {
+      "has_shrinebase": "2025-04-02 14:07:18 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-03 21:58:28 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-01-26 20:50:04 +0700"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee": {
+    "criteria": {
+      "catch": "2025-02-04 20:52:39 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/scroll": {
+    "criteria": {
+      "has_scroll": "2025-04-02 13:56:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-20 19:41:14 +0700"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-02-02 18:22:13 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:mars": {
+    "criteria": {
+      "mars": "2025-03-09 21:56:36 +0700"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/firecrystal": {
+    "criteria": {
+      "has_firecrystal": "2025-04-02 13:53:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-01-20 16:11:27 +0700"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-01-27 23:18:06 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-01-27 23:20:52 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
