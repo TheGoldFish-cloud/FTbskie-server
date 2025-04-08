@@ -252,6 +252,12 @@
     },
     "done": true
   },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2025-04-08 16:46:59 +0700"
+    },
+    "done": true
+  },
   "statues:zombie_statue": {
     "criteria": {
       "zombie_statue": "2025-03-22 19:58:55 +0700"
@@ -597,6 +603,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-26 14:04:27 +0700",
       "minecraft:skeleton": "2025-01-29 20:33:57 +0700",
+      "minecraft:hoglin": "2025-04-08 17:13:27 +0700",
       "minecraft:magma_cube": "2025-03-09 20:54:17 +0700",
       "minecraft:spider": "2025-02-03 18:29:36 +0700",
       "minecraft:creeper": "2025-01-29 20:34:32 +0700",
@@ -753,6 +760,12 @@
   "elementalcraft:pickup/pureinfuser": {
     "criteria": {
       "has_pureinfuser": "2025-04-02 15:28:02 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-04-08 16:56:40 +0700"
     },
     "done": true
   },
@@ -1383,6 +1396,12 @@
     },
     "done": true
   },
+  "statues:enderman_statue": {
+    "criteria": {
+      "enderman_statue": "2025-04-08 17:22:13 +0700"
+    },
+    "done": true
+  },
   "elementalcraft:pickup/air_silk": {
     "criteria": {
       "has_air_silk": "2025-04-02 15:44:26 +0700"
@@ -1492,6 +1511,12 @@
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2025-03-22 19:31:44 +0700"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-08 17:23:15 +0700"
     },
     "done": true
   },
@@ -1678,6 +1703,12 @@
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-20 16:11:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-08 17:23:02 +0700"
     },
     "done": true
   },
@@ -2471,6 +2502,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-20 16:04:14 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-04-08 17:05:18 +0700"
     },
     "done": true
   },

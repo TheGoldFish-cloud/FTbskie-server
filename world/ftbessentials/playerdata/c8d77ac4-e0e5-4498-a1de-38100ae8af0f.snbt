@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 0, y: 64, z: 23, time: 1744098047937L, xRot: 28.94987f, yRot: 50.922638f }
+	last_seen: { dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 32, y: 63, z: -9, time: 1744111371043L, xRot: 22.800308f, yRot: -112.25474f }
 	recording: 0
 	teleport_history: [
 		{ dim: "ftbteamdimensions:team/56085fa2-9d18-4efd-b8e5-7afe9fb8ac3c", x: 7, y: 63, z: -8, time: 1741448688476L, xRot: 12.299896f, yRot: 2.2522888f }
